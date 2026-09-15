@@ -1,0 +1,11 @@
+[package]
+name = "Seal"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "A seal for your desktop!"
+repository = "https://github.com/junapur/Seal"
+authors = ["June <junapur@proton.me>"]
+
+[dependencies]
+bevy = "0.19.1"
